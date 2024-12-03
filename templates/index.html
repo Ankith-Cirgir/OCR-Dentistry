@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OCR PDF to Text</title>
+</head>
+<body>
+    <h1>Upload a PDF for OCR</h1>
+    <form method="POST" enctype="multipart/form-data">
+        <label for="pdf_file">Choose PDF file:</label>
+        <input type="file" id="pdf_file" name="pdf_file" accept="application/pdf" required>
+        <br><br>
+        <label for="output_name">Output File Name:</label>
+        <input type="text" id="output_name" name="output_name" placeholder="output.txt">
+        <br><br>
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>
