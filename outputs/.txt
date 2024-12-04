@@ -1,70 +1,75 @@
-2024 Holiday Calendar
+ANKITH CIRGIR
+ancirgir@gmail.com - +1 (812) 32°7-7450 - LinkedIn - GitHub
 
-Date
+EDUCATION
 
-Monday, January Ist
+INDIANA UNIVERSITY BLOOMINGTON, Bloomington, IN Aug 2022 - May 2024
 
-Tuesday, January 24
+Master of Computer Science
+e Coursework: Computer Networks, Applied Algorithms, Software Engineering, Data Structures
 
-Monday, January 15"
+B.V. RAJU INSTITUTE OF TECHNOLOGY Aug 2018 —- May 2022
+Bachelor of Technology in Computer Science Engineering
 
-Friday, March 29"
+SKILLS
 
-Monday, May 27"
+Programming Languages: Python, Java, C, C#, TypeScript
 
-Wednesday, June 19”
+Web Development: AngularJS, React, HTML, CSS, jQuery, JavaScript, XHTML, Responsive Design, Selenium, GraphQL,
+ReactUS, ASP.NET, Azure API
 
-Thursday, July 4"
+Back-End Development: SQL-MySQL, PostgreSQL, NOSQL, MongoDEB, Firebase
 
-Monday, September 2™
+Product Management: Product Lifecycle Management, Product Design, Jira, Notion, Scrum Processes, Agile
+Development Tools: Visual Studio, SQL Server Management Studio (SSMS), VS Code, SQL Workbench
 
-Thursday, November 28"
+Other Tools: MS Office, Git, Postman, Wireshark
 
-Friday, November 29"
+PROFESSIONAL EXPERIENCE
 
-Tuesday, December 24"
+INDIANA UNIVERSITY BLOOMINGTON, Bloomington, IN Jan 2023 - April 2024
+Graduate Teaching Assistant
 
-Wednesday, December 25"
+e Taught Python, Java, and C# and used detailed assessments to verify a 35% Increase in coding proficiency.
 
-Thursday, December 26"
+e Guided Agile projects using Jira and Notion, achieving 90% completion with a focus on project quality evaluations.
 
-Friday, December 27%
+e Enhanced coding tool skills in Visual Studio, VS Code, and Git, confirming through practical, hands-on testing.
 
-Monday, December 30"
+TECHNOVERT Sep 2021 - Aug 2022
+Full Stack Developer
 
-Tuesday, December 31°
+Elevated an address book app’s UI via Angular and TypeScript, redesigning user flows to boost engagement by 30%.
+Increased REST API efficiency with asynchronous programming in C# on .NET, reducing retrieval times by 20%.
+Improved mobile accessibility by 25% via advanced CSS and media queries, ensuring cross-browser compatibility.
+Streamlined app code using MVC and Angular, significantly enhancing scalability and maintenance.
 
-Holiday Observed
+Built dynamic web Uls with Angular, utilizing Data Binding and Dependency Injection to enhance rendering
+efficiency.
 
-New Year’s Eve Observed
+e Integrated GraphQL APIs with Apollo Client, improving data management and lowering backend load times by 35%.
 
-New Year’s Day Observed
+CYBERMEDHA SOLUTIONS PVT. LTD. Oct 2020 - Dec 2020
+Software Developer
 
-Martin Luther King, Jr. Day
+Led the front-end develooment of an Angular-based streaming platform for TV series, focusing on responsive design.
+Integrated SQL databases with back-end services in a streaming platform, enhancing data handling for SOk+ users.
+Enhanced streaming quality by implementing H.264 encoding, reducing video buffering times significantly.
+Employed Agile methodologies to develop a low-latency streaming service with sub-l0Oms response times.
+Optimized data transmission using compression techniques in a video platform, decreasing bandwidth usage.
+Designed responsive Ul components using Angular, TypeScript, and CSS, boosting performance of the platform.
 
-Meharry Day
+PROJECTS
 
-Memorial Day
+BankAPI (Angular) | Angular, SQL Server, SQLHandlers, RESTful API Dec 2023
+e Streamlined Angular and SQLHandlers to deliver a secure, responsive banking platform, enhancing data integrity.
+e Crafted a RESTful API to facilitate secure banking transactions, improving operational efficiency and customer trust.
 
-Juneteenth
+Wi-Fi Strength Application | Java, XML, Android Studio (Link) May 2023
+e Created a Java/XML app to detect and boost Wi-Fi signals with smart sensor feedback for peak performance guide.
+e Elevated market presence via feature innovation, achieving over 10,000 downloads and significant user engagement.
 
-Independence Day
+AWARDS & CERTIFICATIONS
 
-Labor Day
-
-Thanksgiving Day
-
-Thanksgiving Holiday
-
-Christmas Eve
-
-Christmas Day
-
-Meharry Day
-
-Meharry Day
-
-Meharry Day
-
-New Year’s Eve
-
+IBM Certified Information Security (INFOSEC) Dec 2021
+J-Hub Central Hackathon League | Secured 3rd place at J-Hub Central Hackathon League May 2020
