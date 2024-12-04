@@ -36,8 +36,9 @@ def index():
         pdf_path = UPLOAD_FOLDER / pdf_file.filename
         pdf_file.save(pdf_path)
 
+	#OUTPUT_FOLDER.mkdir(exist_ok=True)
         # Output file path
-        output_path = OUTPUT_FOLDER / output_name
+        output_path = OUTPUT_FOLDER / f"{output_name}.txt"  # Ensure it has a .txt extension
 
         # Process the PDF
         try:
@@ -50,10 +51,24 @@ def index():
 
 @app.route("/download/<output_name>")
 def download(output_name):
+    # Construct the output file path
+    output_name += ".txt"
     output_path = OUTPUT_FOLDER / output_name
+
+    # Debugging: Print the output path
+    print(f"Download request for: {output_path}")
+
+    # Check if the file exists
     if not output_path.exists():
+        print(f"File not found: {output_path}")
         return "Output file not found.", 404
-    return send_file(output_path, as_attachment=True)
+
+    # Send the file to the user
+    try:
+        return send_file(output_path, as_attachment=True)
+    except Exception as e:
+        print(f"Error sending file: {e}")
+        return f"An error occurred while sending the file: {e}", 500
 
 def ocr_pdf_to_text(pdf_path, output_path):
     """Converts a PDF file to text using OCR and saves it to the output file."""
@@ -83,4 +98,4 @@ def uploaded_file(filename):
     return send_file(path)
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(host='0.0.0.0', port=5000)
